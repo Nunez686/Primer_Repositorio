@@ -1,2 +1,3 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual estaran disponibles mis practicas
+Este repositorio es propiedad de : Nuñez soto Brayan Adan
+En este repositorio estan disponibles mis practicas de la segunda unidad realizadas en PHP.
